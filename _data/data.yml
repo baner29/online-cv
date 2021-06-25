@@ -7,21 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Abhishek Banerjee
+    tagline: Data Engineer & Business Analyst
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: abhishek.banerjee219@gmail.com
+    phone: +91 9629769233
+    website: www.hostsandguests.in #do not add http://
+    linkedin: baner29
+    github: baner29
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@ablucky14'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -30,17 +29,17 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: Hindi
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Bengali
+        level: Beginner
 
     interests:
-      - item: Climbing
+      - item: Travelling
         link:
 
-      - item: Snowboarding
+      - item: Gaming
         link:
 
       - item: Cooking
