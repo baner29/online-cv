@@ -73,32 +73,32 @@ experiences:
       time: 2020 - Present
       company: ZS Associates, Gurgaon
       details: |
-        -Leading the day to day operations of a cloud data warehouse solution, containing massive commercial healthcare data, with a team of 5-6
+        - Leading the day to day operations of a cloud data warehouse solution, containing massive commercial healthcare data, with a team of 5-6
          members and supporting 100+ Service Requests & 20+ Incidents each month
-        -Architecting solutions to the client by gathering requirement for 30+ data sources and integrating into AWS cloud infrastructure using Amazon s3
+        - Architecting solutions to the client by gathering requirement for 30+ data sources and integrating into AWS cloud infrastructure using Amazon s3
          for ftp, Redshift & RDS Aurora for database, Python & SnapLogic for creating data pipelines, ETL & Automation and MicroStrategy for Business
          Intelligence reporting
-        -Supported the Implementation of the new IT ERP for the client on ServiceNow instance by leveraging the platforms’ OOTB functionality and
+        - Supported the Implementation of the new IT ERP for the client on ServiceNow instance by leveraging the platforms’ OOTB functionality and
          innovation to drive process excellence, digital transformation and standardize user experience
-        -Deployed 10+ build projects worth ~$1.3 million using Agile SDLC methodology
-        -Worked on a website deployment project to track patient digital data journey through Google Analytics UTM tracking and Adobe Analytics CID
+        - Deployed 10+ build projects worth ~$1.3 million using Agile SDLC methodology
+        - Worked on a website deployment project to track patient digital data journey through Google Analytics UTM tracking and Adobe Analytics CID
          tracking code during COVID-19 pandemic and provide useful insights on patient’s behavior and impressions on the marketed drug
-        -Created multiple Process Automation tools to optimize and reduce the operational and build effort of multiple projects:
-            -One Touch Ops: 60% Effort reduction in running operations; 3 FTE worth of cost & effort savings
-            -Data Archival framework: Purge 20 TB worth of data every week; 5x faster using parquet format; 500% time saving; 17% more cluster
+        - Created multiple Process Automation tools to optimize and reduce the operational and build effort of multiple projects:
+            - One Touch Ops: 60% Effort reduction in running operations; 3 FTE worth of cost & effort savings
+            - Data Archival framework: Purge 20 TB worth of data every week; 5x faster using parquet format; 500% time saving; 17% more cluster
              space availability
-            -Fuzzy-logic based mapping and conformance suggestion engine: 80% reduction effort; 10x faster
-            -SLA tracking Automation: Scrap data from website using API & python for SLA tracking; 40% reduction in effort; 100% SLA
-            -Loading dock for email ingestion: 20% reduction in effort; ~1 FTE worth cost & effort savings
-        -Supported a MVP on ML based anomaly detection engine created over Dash framework, that:
-        -Detects data anomalies in priority subject areas to augment current data quality checks within the system.
-        -Reduce cognitive burden (~3 Business days) on BI&A commercial colleagues by identifying higher number of potential data anomalies
+            - Fuzzy-logic based mapping and conformance suggestion engine: 80% reduction effort; 10x faster
+            - SLA tracking Automation: Scrap data from website using API & python for SLA tracking; 40% reduction in effort; 100% SLA
+            - Loading dock for email ingestion: 20% reduction in effort; ~1 FTE worth cost & effort savings
+        - Supported a MVP on ML based anomaly detection engine created over Dash framework, that:
+        - Detects data anomalies in priority subject areas to augment current data quality checks within the system.
+        - Reduce cognitive burden (~3 Business days) on BI&A commercial colleagues by identifying higher number of potential data anomalies
          proactively (~400 Anomalies identified and rectified before data pushed in production)
-        -Lead monthly Quality Risk Management (QRM) meeting with client
-        -Document & present statistics for overall project performance in Business Review meeting
-        -Done architecture, cost estimation & pricing for over 10 projects
-        -Onboard/mentor new joiners in the team on system architecture and data domains
-        -Firm contribution on facilitating more than 6 Bootcamps in 1 year as a Data warehousing and SQL mentor for new recruits
+        - Lead monthly Quality Risk Management (QRM) meeting with client
+        - Document & present statistics for overall project performance in Business Review meeting
+        - Done architecture, cost estimation & pricing for over 10 projects
+        - Onboard/mentor new joiners in the team on system architecture and data domains
+        - Firm contribution on facilitating more than 6 Bootcamps in 1 year as a Data warehousing and SQL mentor for new recruits
     - role: Business Technology Analyst
       time: 2017 - 2019
       company: ZS Associates, Gurgaon
