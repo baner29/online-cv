@@ -48,35 +48,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am Abhishek Banerjee, Business Technology Analyst Associate Consultant at ZS Associates, Gurgaon. 
+      Currently I hold 3.5 years experience in management consulting with a dedicated data engineer and 
+      business analyst role. I am responsible for smooth running of the operations for a tera-byte scale 
+      cloud data warehouse (AWS) including data ingestion from 100+ data sources, performing ETL, 
+      cleansing the data and creating/automating data pipelines. I also lead the end to end business 
+      requirements gathering for new projects and providing optimum & most performant solutions for 
+      the client & their customers. My expertise lies as a Business Analyst, Data Engineer, 
+      Project Management, Problem solving & Solutions Architect. I have strong proficiency in AWS, 
+      Python, SnapLogic, MicroStrategy, DBMS concepts
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech in Electrical & Electronics
+      university: Vellore Institue of Technology, Vellore
+      time: 2013-2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Completed my bachelors in EEE from one of the top reputated university for engineering in India.
+    - degree: Indian School Cetificate
+      university: St. Joseph's College, Allahabad
+      time: 2011-2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        ISC board XII in Computer Science stream
 experiences:
     - role: Lead Developer
       time: 2015 - Present
