@@ -106,18 +106,16 @@ experiences:
         - End to End data load; gathering data from multiple sources to performing ETL, optimize databases, create data pipelines, cleansing the data and
          automating the process
         - Business Intelligence reporting and data visualization on MicroStrategy to provide strategic business insights & analytics to clients and users
+        - Migrated an obsolete payer MDM system to cloud to ensure the uniformity, accuracy, stewardship, semantic consistency and accountability of
+          the commercially shared payer master data assets
         - Helped resolve more than 200+ complex business queries raised by more than 15+ downstream teams
         - Pilot Project for client over feasibility of business Intelligent reporting on ThoughtSpot
         - Worked towards enhancing and upgrading an in-house content management framework for data catalog management using Drupal
-        - Migrated an obsolete payer MDM system to cloud to ensure the uniformity, accuracy, stewardship, semantic consistency and accountability of
-         the commercially shared payer master data assets
         - One of the first person to successfully complete a POC on hosting enterprise data over a new platform for the client
-        - Provided Business solutions to complex US Healthcare analytics problems which involved huge datasets like Sales IC, KPI for reps, Patient's claims
-         behavior, copay, rebates & contract data, market access of a drug, new product launch, Multi-Channel marketing
+        - Provided Business solutions to complex US Healthcare analytics problems which involved complex datasets like Sales, Call activity, Patient Transactional Data – Claims, Copay & Redemption, Contract & Rebates, Market Access, Customer master, Product master, Alignment master, Multi-Channel marketing
         - Applying Business driven quality checks such as outlier, restatement checks for quality data comparisons and trend breaks using data clustering &
-         statistical models which resulted in 400% increase in timely issue capturing
-        - Providing support to business teams, working closely in meeting the end requirement for their clients & creating custom Business rules for them
-         along with de-bugging the production issues
+          statistical models which resulted in 400% increase in timely issue capturing
+        - Providing support to business teams by de-bugging the production data issues, working closely in meeting the end requirement for their clients & creating custom business reports
     - role: Technology Specialist
       time: June,2017 - Oct,2017
       company: Sonata Software, Bangalore
