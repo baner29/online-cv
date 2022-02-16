@@ -67,22 +67,17 @@ experiences:
       company: Randstad Sourceright, Hyderabad
       details: |
         - Overlooked a team of 4-5 for daily operations and enhancements of the existing data sources
-        - Lead a team of 2 to create an ETL pipeline to ingest batch data from APIs, GCP Storage, emails, SFTP to Google Cloud using
-python and hosting on compute engine
+        - Lead a team of 2 to create an ETL pipeline to ingest batch data from APIs, GCP Storage, emails, SFTP to Google Cloud using  python and hosting on compute engine
         - Worked with the business teams to understand their requirement and applied custom business rules on the data using SQL
-        - Created an automated framework for automating the business rules implementation process saving 30% time for the business
-as well as data engineering team
+        - Created an automated framework for automating the business rules implementation process saving 30% time for the business as well as data engineering team
         - Migrated legacy data from DOMO, MSSQL server to Google Cloud SQL using python
-        - Created an orchestration framework to add dependencies and schedule the various pipelines and applications using python on
-cloud composer
-        - Built a data quality management framework that reduced the data quality issues by 35% and saved effort for re-work done by
-the business teams by 20%
+        - Created an orchestration framework to add dependencies and schedule the various pipelines and applications using python on cloud composer
+        - Built a data quality management framework that reduced the data quality issues by 35% and saved effort for re-work done by the business teams by 20%
         - Designed and implemented a release management framework using gitea and deployed on Kubernetes engine
         - Implemented security groups and IAM policies to control the access on various GCP resources within the team
         - Automated the migration of reporting data from Cloud SQL to Bigquery to be accessed by reporting teams
         - Suggested and deployed various applications created by the team on cloud functions, cloud run, app engine
-        - Reduced overall cloud expenses by 28% by switching from App engine flex to standard and adding partitioning and clustering in
-Bigquery tables
+        - Reduced overall cloud expenses by 28% by switching from App engine flex to standard and adding partitioning and clustering in Bigquery tables
         - Built a pipeline to ingest data using pub/sub, dataflow and loading into Bigquery and archiving in cloud storage
         - Developed an application to expose documentations to users generated using python sphinx and deployed on app engine
         - Reviewed codes and documentations created by the team before deploying
