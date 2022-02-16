@@ -48,15 +48,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am Abhishek Banerjee, Business Technology Analyst Associate Consultant at ZS Associates, Gurgaon. 
-      Currently I hold 3.5 years experience in management consulting with a dedicated data engineer and 
-      business analyst role. I am responsible for smooth running of the operations for a tera-byte scale 
-      cloud data warehouse (AWS) including data ingestion from 100+ data sources, performing ETL, 
-      cleansing the data and creating/automating data pipelines. I also lead the end to end business 
-      requirements gathering for new projects and providing optimum & most performant solutions for 
-      the client & their customers. My expertise lies as a Business Analyst, Data Engineer, 
-      Project Management, Problem solving & Solutions Architect. I have strong proficiency in AWS, 
-      Python, SnapLogic, MicroStrategy, DBMS concepts
+      A Data Engineer and technology consultant with ~5 year experience in Data engineering, Big Data, tech & data consulting, solutions architect & BI. 
+      Experience in multi-cloud (AWS & GCP) with a Certified Google Professional Data Engineer certification
 education:
     - degree: B.Tech in Electrical & Electronics
       university: Vellore Institue of Technology, Vellore
@@ -69,8 +62,32 @@ education:
       details: |
         ISC board XII in Computer Science stream
 experiences:
+    - role: Data Engineer
+      time: Aug'21 - Present
+      company: Randstad Sourceright, Hyderabad
+      details: |
+        - Overlooked a team of 4-5 for daily operations and enhancements of the existing data sources
+        - Lead a team of 2 to create an ETL pipeline to ingest batch data from APIs, GCP Storage, emails, SFTP to Google Cloud using
+python and hosting on compute engine
+        - Worked with the business teams to understand their requirement and applied custom business rules on the data using SQL
+        - Created an automated framework for automating the business rules implementation process saving 30% time for the business
+as well as data engineering team
+        - Migrated legacy data from DOMO, MSSQL server to Google Cloud SQL using python
+        - Created an orchestration framework to add dependencies and schedule the various pipelines and applications using python on
+cloud composer
+        - Built a data quality management framework that reduced the data quality issues by 35% and saved effort for re-work done by
+the business teams by 20%
+        - Designed and implemented a release management framework using gitea and deployed on Kubernetes engine
+        - Implemented security groups and IAM policies to control the access on various GCP resources within the team
+        - Automated the migration of reporting data from Cloud SQL to Bigquery to be accessed by reporting teams
+        - Suggested and deployed various applications created by the team on cloud functions, cloud run, app engine
+        - Reduced overall cloud expenses by 28% by switching from App engine flex to standard and adding partitioning and clustering in
+Bigquery tables
+        - Built a pipeline to ingest data using pub/sub, dataflow and loading into Bigquery and archiving in cloud storage
+        - Developed an application to expose documentations to users generated using python sphinx and deployed on app engine
+        - Reviewed codes and documentations created by the team before deploying
     - role: Senior Business Technology Analyst
-      time: 2020 - Present
+      time: Jan'20 - Jul'21
       company: ZS Associates, Gurgaon
       details: |
         - Leading the day to day operations of a cloud data warehouse solution, containing massive commercial healthcare data, with a team of 5-6
@@ -91,8 +108,8 @@ experiences:
             - SLA tracking Automation: Scrap data from website using API & python for SLA tracking; 40% reduction in effort; 100% SLA
             - Loading dock for email ingestion: 20% reduction in effort; ~1 FTE worth cost & effort savings
         - Supported a MVP on ML based anomaly detection engine created over Dash framework, that:
-        - Detects data anomalies in priority subject areas to augment current data quality checks within the system.
-        - Reduce cognitive burden (~3 Business days) on BI&A commercial colleagues by identifying higher number of potential data anomalies
+            - Detects data anomalies in priority subject areas to augment current data quality checks within the system.
+            - Reduce cognitive burden (~3 Business days) on BI&A commercial colleagues by identifying higher number of potential data anomalies
          proactively (~400 Anomalies identified and rectified before data pushed in production)
         - Lead monthly Quality Risk Management (QRM) meeting with client
         - Document & present statistics for overall project performance in Business Review meeting
@@ -129,11 +146,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+       name: Cloud Solutions - GCP
+        level: 75%
+      
       - name: Python
         level: 65%
 
       - name: Data warehousing
         level: 98%
+        
+      - name: BigData
+        level: 65%
 
       - name: Data Visualization
         level: 74%
@@ -142,7 +165,7 @@ skills:
         level: 55%
 
       - name: Cloud Solutions - AWS
-        level: 75%
+        level: 65%
         
       - name: MicroStrategy
         level: 65%
@@ -156,8 +179,5 @@ skills:
       - name: ETL
         level: 97%
 
-      - name: Photoshop
-        level: 80%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Machine Learning
+        level: 20%
