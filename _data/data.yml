@@ -141,9 +141,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-       name: Cloud Solutions - GCP
+      - name: Cloud Solutions - GCP
         level: 75%
-      
+        
       - name: Python
         level: 65%
 
