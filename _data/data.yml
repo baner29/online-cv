@@ -67,18 +67,17 @@ experiences:
       company: Randstad Sourceright, Hyderabad
       details: |
         - Overlooked a team of 4-5 for daily operations and enhancements of the existing data sources
-        - Lead a team of 2 to create an ETL pipeline to ingest batch data from APIs, GCP Storage, emails, SFTP to Google Cloud using  python and hosting on compute engine
-        - Worked with the business teams to understand their requirement and applied custom business rules on the data using SQL
+        - Worked with the business teams to understand their requirements and provide solutions
+        - Lead a team of 2-3 to create and maintain a master ETL pipeline to ingest batch data from 20+ sources to Google Cloud using python and hosted on compute engine 
         - Created an automated framework for automating the business rules implementation process saving 30% time for the business as well as data engineering team
-        - Migrated legacy data from DOMO, MSSQL server to Google Cloud SQL using python
-        - Created an orchestration framework to add dependencies and schedule the various pipelines and applications using python on cloud composer
+        - Migrated terabyte of legacy data from AWS MSSQL server and DOMO to Google Cloud SQL & Bigquery improving the query performance by 40% using python
+        - Created an orchestration framework to add dependencies and schedule the various pipelines and applications using airflow on cloud composer
         - Built a data quality management framework that reduced the data quality issues by 35% and saved effort for re-work done by the business teams by 20%
         - Designed and implemented a release management framework using gitea and deployed on Kubernetes engine
         - Implemented security groups and IAM policies to control the access on various GCP resources within the team
         - Automated the migration of reporting data from Cloud SQL to Bigquery to be accessed by reporting teams
-        - Suggested and deployed various applications created by the team on cloud functions, cloud run, app engine
-        - Reduced overall cloud expenses by 28% by switching from App engine flex to standard and adding partitioning and clustering in Bigquery tables
-        - Built a pipeline to ingest data using pub/sub, dataflow and loading into Bigquery and archiving in cloud storage
+        - Mentored the team to select the right GCP resource to use to deploy their applications and pipelines
+        - Reduced overall cloud expenses by 28% by following Google’s best practices
         - Developed an application to expose documentations to users generated using python sphinx and deployed on app engine
         - Reviewed codes and documentations created by the team before deploying
     - role: Senior Business Technology Analyst
@@ -117,6 +116,7 @@ experiences:
       details: |
         - End to End data load; gathering data from multiple sources to performing ETL, optimize databases, create data pipelines, cleansing the data and
          automating the process
+        - Troubleshoot and optimize existing data pipelines
         - Business Intelligence reporting and data visualization on MicroStrategy to provide strategic business insights & analytics to clients and users
         - Migrated an obsolete payer MDM system to cloud to ensure the uniformity, accuracy, stewardship, semantic consistency and accountability of
           the commercially shared payer master data assets
