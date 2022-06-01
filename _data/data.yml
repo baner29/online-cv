@@ -48,8 +48,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A Data Engineer and technology consultant with ~5 year experience in Data engineering, Big Data, tech & data consulting, solutions architect & BI. 
-      Experience in multi-cloud (AWS & GCP) with a Certified Google Professional Data Engineer certification
+      A Data engineer and technology consultant with 5 year experience in ETL, pipeline operations, Big Data, cloud solutions, business analytics & BI reporting. Experience in two of the biggest cloud solutions AWS & GCP. I have helped solve data challenges for various clients across domains like Healthcare, pharmaceutical, R&D, HR, and Staffing. 
+      I am a technology and data enthusiast who is keen to learn new technologies and data domains and help solve real world problems for my clients.
 education:
     - degree: B.Tech in Electrical & Electronics
       university: Vellore Institue of Technology, Vellore
@@ -66,20 +66,18 @@ experiences:
       time: Aug'21 - Present
       company: Randstad Sourceright, Hyderabad
       details: |
-        - Overlooked a team of 4-5 for daily operations and enhancements of the existing data sources
-        - Worked with the business teams to understand their requirements and provide solutions
-        - Lead a team of 2-3 to create and maintain a master ETL pipeline to ingest batch data from 20+ sources to Google Cloud using python and hosted on compute engine 
-        - Created an automated framework for automating the business rules implementation process saving 30% time for the business as well as data engineering team
-        - Migrated terabyte of legacy data from AWS MSSQL server and DOMO to Google Cloud SQL & Bigquery improving the query performance by 40% using python
-        - Created an orchestration framework to add dependencies and schedule the various pipelines and applications using airflow on cloud composer
+        - Develop, maintain, enhance and innovate both small and big data pipelines to ingest data from >30+ sources across 100+ clients
+        - Worked with the business and data science teams to understand their requirements and convert the business rules into technical SQL queries and apply in the data warehouse ultimately resulting in quick business reports delivery
+        - Mentored and helped the team in on-boarding new members, choosing the right GCP resource, SQL & Python coding and other day to day activities
+        - Lead the migrations for various applications and codes for the team from lower environments to Production. Build a front end tool using python flask to automate the migration and reduce the time to migrate by >50%.
+        - Developed various functions, modules on both SQL and python like BusinessHours calculation, soft deletion, derived view queries, datetime conversion, API filter, memory profiler which ultimately became the base modules for all future pipelines and client implementations.
+        - Implemented various data governance policies like GCP security groups, IAM policies, Cloud IAP, PSQL user groups for both BI-group team and data science teams to adhere to the set security best practices.
+        - Deployed and managed various internal applications on Google Cloud Run, Cloud Functions, App engine, Compute Engine ensuring maximum performance and automation resulting in 40% increase in team’s productivity
+        - Provide support to the Data Science team by building data migration modules to migrate data between RDBMS to Bigquery rapidly reducing overall TAT by 40%
+        - Created an orchestration framework to add dependencies and schedule the various pipelines and applications using python as well as airflow (cloud composer)
         - Built a data quality management framework that reduced the data quality issues by 35% and saved effort for re-work done by the business teams by 20%
-        - Designed and implemented a release management framework using gitea and deployed on Kubernetes engine
-        - Implemented security groups and IAM policies to control the access on various GCP resources within the team
-        - Automated the migration of reporting data from Cloud SQL to Bigquery to be accessed by reporting teams
-        - Mentored the team to select the right GCP resource to use to deploy their applications and pipelines
-        - Reduced overall cloud expenses by 28% by following Google’s best practices
-        - Developed an application to expose documentations to users generated using python sphinx and deployed on app engine
-        - Reviewed codes and documentations created by the team before deploying
+        - Shifted from third party tool to Google Data loss prevention (DLP) API to mask Personally Identifiable Information (PII) to meet the data governance policy ultimately reducing the overall cost by 73% annually
+        - Done cost estimation and reduced overall cloud expenses by 28% by following Google’s best practices
     - role: Senior Business Technology Analyst
       time: Jan'20 - Jul'21
       company: ZS Associates, Gurgaon
