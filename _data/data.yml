@@ -62,7 +62,7 @@ education:
       details: |
         ISC board XII in Computer Science stream
 experiences:
-    - role: Data Engineer
+    - role: Team Lead - Data Engineer
       time: Aug'21 - Present
       company: Randstad Sourceright, Hyderabad
       details: |
@@ -70,7 +70,7 @@ experiences:
         - Worked with the business and data science teams to understand their requirements and convert the business rules into technical SQL queries and apply in the data warehouse ultimately resulting in quick business reports delivery
         - Mentored and helped the team in on-boarding new members, choosing the right GCP resource, SQL & Python coding and other day to day activities
         - Lead the migrations for various applications and codes for the team from lower environments to Production. Build a front end tool using python flask to automate the migration and reduce the time to migrate by >50%.
-        - Developed various functions, modules on both SQL and python like BusinessHours calculation, soft deletion, derived view queries, datetime conversion, API filter, memory profiler which ultimately became the base modules for all future pipelines and client implementations.
+        - Lead a project to build cloud infrastructure on Google Cloud Platform including setting up the environments, networking,security, permissions, and databases.
         - Implemented various data governance policies like GCP security groups, IAM policies, Cloud IAP, PSQL user groups for both BI-group team and data science teams to adhere to the set security best practices.
         - Deployed and managed various internal applications on Google Cloud Run, Cloud Functions, App engine, Compute Engine ensuring maximum performance and automation resulting in 40% increase in team’s productivity
         - Provide support to the Data Science team by building data migration modules to migrate data between RDBMS to Bigquery rapidly reducing overall TAT by 40%
@@ -78,6 +78,7 @@ experiences:
         - Built a data quality management framework that reduced the data quality issues by 35% and saved effort for re-work done by the business teams by 20%
         - Shifted from third party tool to Google Data loss prevention (DLP) API to mask Personally Identifiable Information (PII) to meet the data governance policy ultimately reducing the overall cost by 73% annually
         - Done cost estimation and reduced overall cloud expenses by 28% by following Google’s best practices
+        - Handling 5 Associates who directly report to me and managing their career growth chart, filling their reviews andcompensation planning.
     - role: Senior Business Technology Analyst
       time: Jan'20 - Jul'21
       company: ZS Associates, Gurgaon
